@@ -1,2 +1,2 @@
 # 7301repository
-repository for ISLS 7301 class project
+## a repository for ISLS 7301 class project
